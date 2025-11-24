@@ -1,6 +1,6 @@
 export enum Atoll {
-  SouthMale = 'South Malé',
-  NorthMale = 'North Malé',
+  SouthMale = 'South Malé(South Kaafu)',
+  NorthMale = 'North Malé(North Kaafu)',
   Vaavu = 'Vaavu',
   NorthAri = 'North Ari (Alif Alif)',
   SouthAri = 'South Ari (Alif Dhaalu)',
